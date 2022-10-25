@@ -9,7 +9,6 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>student-api</artifactId>
-	<version>v1.0</version>
 	<packaging>war</packaging>
 	<name>SpringRestAPI</name>
 	<description>Project about Rest API using Spring Boot</description>
