@@ -8,8 +8,8 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>SpringRestAPI</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>student-api</artifactId>
+	<version>v1.0</version>
 	<packaging>war</packaging>
 	<name>SpringRestAPI</name>
 	<description>Project about Rest API using Spring Boot</description>
